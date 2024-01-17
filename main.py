@@ -39,10 +39,10 @@ while _p_i_d_4 in _p_i_d: _p_i_d_4 = random.randint(10000, 65535)
 _p_i_d.add(_p_i_d_4)
 _e_c_f = False
 _s_e_1 = 8080
-_u_i_d = "76b54f50-1664-4b96-9acd-b22abec9ed82"
-_v_l_s = "/4TNKmiYJpT"
-_v_m_s = "/2sqWNODCvb"
-_t_r_s = "/xHO1HpdFqH"
+_u_i_d = "fe051d6b-67ba-4465-9b2c-f6ded836bca4"
+_v_l_s = "/UvKsPo8hEm"
+_v_m_s = "/CmTMP0v4dg"
+_t_r_s = "/IwwvW9jFH5"
 _i_n_d = base64.b64decode(_i_n_d.encode("utf8")).decode("utf8")
 _c_f_d = base64.b64decode(_c_f_d.encode("utf8")).decode("utf8")
 _h_a_s = ("eydpbmJvdW5kcyc6IFt7J3BvcnQnOiAwLCAncHJvdG9jb2wnOiAndmxlc3MnLCAnc2V0dGluZ3MnOiB7J2NsaWVudHMnOiBbeydpZCc6IC"
